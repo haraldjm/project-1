@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdfc9a3d-2844-4918-80ba-4d3f0489eff0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/project-1/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/project-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/project-1/mission.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/project-1/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bdfc9a3d-2844-4918-80ba-4d3f0489eff0" name="Changes" comment="HTML/CSS and Images for index, products, and mission html">
+      <change afterPath="$PROJECT_DIR$/src/main/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/project-1/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/project-1/assets/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1698766026271</updated>
     </task>
+    <task id="LOCAL-00001" summary="HTML/CSS and Images for index, products, and mission html">
+      <created>1699355912434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699355912434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HTML/CSS and Images for index, products, and mission html" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTML/CSS and Images for index, products, and mission html" />
   </component>
 </project>
