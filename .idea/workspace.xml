@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdfc9a3d-2844-4918-80ba-4d3f0489eff0" name="Changes" comment="HTML/CSS and Images for index, products, and mission html">
-      <change afterPath="$PROJECT_DIR$/src/main/contact.html" afterDir="false" />
+    <list default="true" id="bdfc9a3d-2844-4918-80ba-4d3f0489eff0" name="Changes" comment="Corrected a few minor mistakes in contact html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/project-1/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/project-1/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699355912434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HTML/CSS and Images for about and contact html">
+      <created>1699396002951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699396002951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Corrected a few minor mistakes in contact html">
+      <created>1699435183714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699435183714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HTML/CSS and Images for index, products, and mission html" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTML/CSS and Images for index, products, and mission html" />
+    <MESSAGE value="HTML/CSS and Images for about and contact html" />
+    <MESSAGE value="Corrected a few minor mistakes in contact html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected a few minor mistakes in contact html" />
   </component>
 </project>
